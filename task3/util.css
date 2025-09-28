@@ -1,0 +1,17 @@
+.text-center{
+    text-align: center;
+}
+.bg-red{
+    background-color: #a91f1f;
+}
+.container{
+   display: flex; /* ye flex mein  */
+    flex-direction: column; /* ye flex col mein  */
+    justify-content: center;
+    align-items: center;
+    /* max-width: 400px; */
+    
+}
+.mx-auto{
+    margin: auto;
+}
