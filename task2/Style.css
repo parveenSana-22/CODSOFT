@@ -191,8 +191,8 @@ nav .right a span{
     font-size:18px ;
 }
 .cells .cell img{
-    height: 20px;
-    width: 20px;
+    height: 30px;
+    width: 30px;
     object-fit: cover;  /* so that the photo does not stretched */
     border-radius: 2px;
     margin: 3px;
@@ -225,9 +225,9 @@ nav .right a span{
     margin: 10px 10px;
 }
 .person-detail img{
-    height: 300px;
-    width: 300px;
-    aspect-ratio: 1/1;
+    height: 200px;
+    width: 200px;
+    /* aspect-ratio: 1/1; */
     border-radius: 50%;
     object-fit: cover;
 }
